@@ -1,4 +1,4 @@
-Visa vs Mastercard Stock Volatility Analysis
+# Visa vs Mastercard Stock Volatility Analysis
 📌 Project Overview
 
 This project analyzes and compares the stock volatility of Visa (V) and Mastercard (M) using historical market data. The goal is to evaluate risk, price stability, and trend behavior over time using an end-to-end analytics workflow that mirrors real-world data analyst tasks.
