@@ -59,7 +59,7 @@ Detected consecutive gain and loss streaks to identify extended bullish and bear
 📊 Key Visualization: Monthly Average Volatility
 
 This dashboard compares the monthly average volatility of Visa and Mastercard over time.
-<img width="894" height="500" alt="image" src="https://github.com/user-attachments/assets/70d1339b-2b2e-4bd8-b2bf-fe06fa2547cc" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/70d1339b-2b2e-4bd8-b2bf-fe06fa2547cc" />
 
 ✨ Key Insights
 
